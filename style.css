@@ -4,5 +4,5 @@ html, body {
 }
 canvas {
   display: block;
-  border: 1px solid black;
+  border: 2px solid rgb(250,100,50);
 }
